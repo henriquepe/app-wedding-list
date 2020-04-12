@@ -4,6 +4,7 @@ import './App.css';
 import api from './services/api';
 import 'regenerator-runtime/runtime';
 import List from './components/List';
+import image from './assets/save_the_date.png';
 
 
 
@@ -86,9 +87,9 @@ export default function App(){
     </div> 
 
     <button id="btn" type="button" onClick={HandleAddGuest}>Adicionar Convidado</button>
+    
+    </form>        
   
-  </form>        
-        
     </>
 
    
