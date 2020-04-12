@@ -1,0 +1,4 @@
+{
+  //entende em que ambiente estou trabalhando
+  "presets":["@babel/preset-env", "@babel/preset-react"]
+}
