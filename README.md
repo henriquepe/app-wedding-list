@@ -10,7 +10,7 @@ Digite o nome do convidado e seu sobrenome e adicione na lista de convidados.
 Lista de convidados armazenada no servidor a partir do padrão REST (get, post, delete).
   
   
-Aplicação em sua primeira versão com planos para integração de diversas novas features como filtragem por família, tipos de convidados, emissão automática de convite online por e-mail, entre outras...
+Aplicação em sua primeira versão com planos para integração de diversas novas features como filtragem por família, tipo de convidado, emissão automática de convite por e-mail, entre outras...
 
 #
 # Realizada com ferramentas de desenvolvimento WEB atuais.
