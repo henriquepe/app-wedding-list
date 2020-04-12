@@ -1,4 +1,5 @@
-![guest_list](https://user-images.githubusercontent.com/62850277/79080643-19ca4080-7ced-11ea-9cae-b17b0a925e24.jpeg)
+![wedding-list](https://user-images.githubusercontent.com/62850277/79081210-b1ca2900-7cf1-11ea-88ba-9f98b54d0a82.png)
+
 
 #
 # Aplicação WEB para criação de lista de convidados
